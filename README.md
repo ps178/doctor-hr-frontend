@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 # Brief Description
-This project uses React JS to create a front-end where doctors can access their patients' heart rate data. 
+This project uses React JS to create a front-end where doctors can access their patients' heart rate data. The back-end server for this project can be seen at [heart_rate_databases_introduction](https://github.com/ps178/heart_rate_databases_introduction)
 Patient's email adress is used as the primary key to find the pateint. 
 Once the user enters the patient's email and clicks on "Get Data" button, the website will return all of the heart rate data for the patient along with the exact time stamp of each heart rate data entry.
 
