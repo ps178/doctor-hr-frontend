@@ -40,6 +40,6 @@ After installing axios and materials-ui, `npm run start` on terminal to run the 
 
 ### Screen-shot
 
-![Screenshot](Screen Shot 2018-04-12 at 11.11.36 AM.png)
+[Screenshot](Screen Shot 2018-04-12 at 11.11.36 AM.png)
 
 
